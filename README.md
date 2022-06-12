@@ -1,6 +1,5 @@
 ## Olá, Mundo! Eu sou a Vanessa!
 
-##
 
 ### Dev Front-end em formação e fullstack em planejamento!
 
