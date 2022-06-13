@@ -38,7 +38,7 @@
     <a target="_blank" href="https://www.linkedin.com/in/vanessamie" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a target="_blank" href="https://instagram.com/programae.do" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a target="_blank" href = "mailto:n.vanessamie@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href = "discordapp.com/users/VanessaMie#9959"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a target="_blank" href = "http://discordapp.com/users/VanessaMie#9959"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
   </div>
